@@ -1,3 +1,3 @@
 """Reproducible SPPG assignment experiments and Tkinter visualization."""
 
-__version__ = "1.0.0"
+__version__ = "3.2.0"
